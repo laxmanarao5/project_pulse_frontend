@@ -6,7 +6,7 @@ function RootComponent() {
   return (
     <div>
         <div style={{minHeight:"80vh"}}>
-            <div className='fw-bold text-sucess'> Deployed from github actions trial by Vishnu </div>
+            <div className='fw-bold text-sucess'> Deployed from github actions trial by Prash </div>
             <Outlet/>
         </div>
         <Footer/>
